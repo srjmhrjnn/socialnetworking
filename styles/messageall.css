@@ -1,0 +1,44 @@
+#wrapper {height:auto;
+	width:1300px;
+	
+ }
+ .header{height:70px;
+	width:100%;
+background-color:#3b5998;
+	}
+	
+.content{height:150;
+width:1250px;
+
+padding:8px;
+margin:10px;
+border:1px solid #87cefa;
+}
+.leftcontent{height:150;
+width:15%;
+float:left;
+overflow:hidden;
+
+}
+
+
+.rightcontent{height:150;
+width:85%;
+float:left;
+overflow:hidden;
+}
+
+input[type=submit] 
+{
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	color:"green";
+ font-size:16;
+
+ border: none;
+ margin: 0;
+}

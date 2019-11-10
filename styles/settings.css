@@ -1,0 +1,70 @@
+#wrapper {height:auto;
+	width:1300px;
+	
+ }
+ .header{height:70px;
+	width:100%;
+background-color:#3b5998;
+	}
+input[type=submit] 
+{
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	color:"green";
+ font-size:16;
+
+ border: none;
+ margin: 0;
+}
+input[type=password]
+{
+padding:12px;
+margin:8px 0;
+display:inline-block;
+border:1px solid #CCC;
+border-radius:4px;
+box-sizing:border-box;
+}
+input[type=text]
+{
+padding:12px;
+margin:8px 0;
+display:inline-block;
+border:1px solid #CCC;
+border-radius:4px;
+box-sizing:border-box;
+}
+content{
+	height:auto;
+	width:auto;
+	
+	float:left;
+	
+}
+.select-style {
+    border: 1px solid #ccc;
+    width: 60px;
+    border-radius: 3px;
+    overflow: hidden;
+    
+	
+	height:40px;
+}
+
+.select-style select {
+    padding: 5px 8px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.select-style select:focus {
+    outline: none;
+}

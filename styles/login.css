@@ -1,0 +1,122 @@
+.wrapper {height:auto;
+	width:1300px;
+	margin:1px auto;
+	
+ }
+ .select-style {
+    border: 1px solid #ccc;
+    width: 60px;
+    border-radius: 3px;
+    overflow: hidden;
+    
+	float:left;
+	height:40px;
+}
+
+.select-style select {
+    padding: 5px 8px;
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.select-style select:focus {
+    outline: none;
+}
+.birthday{
+height:40px;
+width:160px;
+float:left;
+}
+.header{height:120px;
+	width:100%;
+	
+	}
+.headerleft{
+	height:120px;
+	width:55%;
+	float:left;
+	background-color:#3b5998;
+}
+
+.headercontent{height:120px;
+	width:17%;
+	float:left;
+	background-color:#3b5998;
+}
+.headerright{height:120px;
+width:11%;
+float:left;
+background-color:#3b5998;
+}
+
+	
+.contentwrapper{height:660px;
+	width:100%;
+
+	
+}
+
+.leftcontent{
+	height:660px;
+	width:60%;
+	
+	float:left;	
+	
+}
+.rightcontent{
+	height:660px;
+	width:33%;
+	
+	float:left;
+	
+}
+input[type=text]
+{
+padding:12px;
+margin:8px 0;
+display:inline-block;
+border:1px solid #CCC;
+border-radius:4px;
+box-sizing:border-box;
+}
+input[type=password]
+{
+padding:12px;
+margin:8px 0;
+display:inline-block;
+border:1px solid #CCC;
+border-radius:4px;
+box-sizing:border-box;
+}
+
+input[type=submit] 
+{
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	color:"green";
+ font-size:16;
+
+ border: none;
+ margin: 0;
+}
+.footer{
+height:100px;
+	width:70%;
+
+}
+a:link,a:visited{
+	display:inline-block;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-decoration:none;
+
+	line-height:20px;
+}

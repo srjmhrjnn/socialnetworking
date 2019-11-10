@@ -1,0 +1,33 @@
+#wrapper {height:auto;
+	width:1300px;
+	
+ }
+ .header{height:70px;
+	width:100%;
+background-color:#3b5998;
+	}
+	
+.contents{height:160px;
+width:1250px;
+
+padding:8px;
+margin:10px;
+border:1px solid #87cefa;
+background-color:#f1f1f1;
+overflow:scroll;
+}
+
+input[type=submit] 
+{
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	color:"green";
+ font-size:16;
+
+ border: none;
+ margin: 0;
+}
